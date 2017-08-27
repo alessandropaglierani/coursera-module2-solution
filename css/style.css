@@ -21,10 +21,11 @@ p {
 
 .section-title {
     position: absolute;
+    display: block;
     top: 0px;
     right: 0px;
     background: #FFA500;
-    padding: 10px 5px;
+    padding: 5px 10px;
     margin-bottom: 10px;
 }
 
