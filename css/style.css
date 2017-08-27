@@ -19,6 +19,12 @@ p {
     color: white;
 }
 
+.section-title {
+    position: absolute;
+    top: 0px;
+    right: 0px;
+}
+
 
 /* Simple Responsive Framework. */
 
