@@ -25,6 +25,10 @@ p {
     right: 0px;
 }
 
+.relative {
+    position: relative;
+}
+
 
 /* Simple Responsive Framework. */
 
