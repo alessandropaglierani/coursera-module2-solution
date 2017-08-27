@@ -24,6 +24,8 @@ p {
     top: 0px;
     right: 0px;
     background: #FFA500;
+    padding: 10px 5px;
+    margin-bottom: 10px;
 }
 
 .relative {
